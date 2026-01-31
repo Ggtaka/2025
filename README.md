@@ -7,3 +7,4 @@ My school project in  in 2025
  - Text Mining Project
  - Data Visualization Project
  - Database Project (Taripp Trader)
+ - Knowledge as a Data Product
